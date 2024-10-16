@@ -12,7 +12,7 @@ return(
           <p className='text-[20px] font-mono font-bold pt-[10px]'> As fellow beginners, we are excited to embark on this learning journey together. </p> 
         </div>
         <div >
-          <img src='src\assets\logo.png' className='h-[350px] w-[350px] rounded-[200px] animate-float'></img>
+          <img src='src/assets/logo.png' className='h-[350px] w-[350px] rounded-[200px] animate-float'></img>
         </div>
         
       
