@@ -1,6 +1,7 @@
 import data from '../json_files/data.json';
 
 
+
 // export const Projects = () => {
 //   return (
 //     <div>
