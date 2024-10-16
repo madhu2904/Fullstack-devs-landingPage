@@ -1,6 +1,6 @@
 import data from '../json_files/data.json';
 
-import {portfolio} from '../assets/portfolio'
+import {portfolio} from '../assets/portfolio.png'
 
 // export const Projects = () => {
 //   return (
