@@ -33,7 +33,7 @@ return(
               <h5 className="text-serif text-[30px]" >{project.title}</h5>
               <div className="relative group">
               <img  src={project.image} className="h-[300px] w-[200px]group-hover:opacity-0 transition-opacity"></img>
-              <p className="flex flex-col flex items-center justify-center border-[2px] border-gray-500 text-center absolute inset-0 group-hover:opacity-100 opacity-0 bg-white transition-opacity text-mono text-[20px] "> {project.description} <br/><br/><a href={project.github} target="_blank" className="hover:bg-black hover:text-white">GitHub</a></p>
+              <p className="flex flex-col items-center justify-center border-[2px] border-gray-500 text-center absolute inset-0 group-hover:opacity-100 opacity-0 bg-white transition-opacity text-mono text-[20px] "> {project.description} <br/><br/><a href={project.github} target="_blank" className="hover:bg-black hover:text-white">GitHub</a></p>
               </div>
             </div>)
           }
