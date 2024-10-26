@@ -1,4 +1,4 @@
-import data from '../json_files/data.json';
+import data from '../json_files/data.js';
 import portfolio from '../assets/portfolio.png';
 
 
