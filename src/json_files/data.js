@@ -1,5 +1,5 @@
 import landing from "../assets/landing.png";
-import portfolio from "../assets/landing.png";
+import portfolio from "../assets/portfolio.png";
 
 const data=[
     {
