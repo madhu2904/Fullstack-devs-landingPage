@@ -1,4 +1,6 @@
-import landing from "../assets/landing.png"
+import landing from "../assets/landing.png";
+import portfolio from "../assets/landing.png";
+
 const data=[
     {
       "id": 1,
@@ -11,7 +13,7 @@ const data=[
       "id": 2,
       "title": "Portfolio Website",
       "description": "An interactive portfolio website to display personal projects and skills with an elegant layout.",
-      "image":landing,
+      "image":portfolio,
       "github":"https://github.com/VHarini3/Challenge_"
     }
   ]
